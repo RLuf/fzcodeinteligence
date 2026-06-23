@@ -14,7 +14,7 @@
     "@modelcontextprotocol/sdk": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^6.0.1"
   },
   "devDependencies": {
     "@ast-grep/cli": "^0.44.0",
